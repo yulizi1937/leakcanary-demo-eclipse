@@ -1,3 +1,10 @@
-*/gen/*
-*/out/*
+gen/
+bin/
+out/
+*.swp
+*.iml
+*.idea
+*.apk
+.settings/
+.DS_Store
 
